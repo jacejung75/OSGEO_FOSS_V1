@@ -1,0 +1,2 @@
+# OSGEO_FOSS_V1
+SEVER GIS 교육1일차
